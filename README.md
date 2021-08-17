@@ -30,6 +30,7 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Demo URL
+https://rate-exchange-calculator.herokuapp.com
 
 ## Known issues
  - Exchange API restricted both base currencies GBP and USD therefore rates for these currencies could not be loaded
